@@ -1,2 +1,4 @@
 # budgetApp
-Budget app to manage your budget https://github.com/mohitj27/budgetApp
+Budget app to manage your budget 
+   ###Website Link
+   https://mohitj27.github.io/budgetApp/
